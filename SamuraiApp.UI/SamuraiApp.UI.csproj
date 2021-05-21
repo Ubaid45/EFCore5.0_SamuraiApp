@@ -10,10 +10,4 @@
       <ProjectReference Include="..\SamuraiApp.Domain\SamuraiApp.Domain.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Compile Include="..\..\..\Desktop\entity-framework-core-get-started\M2 Intro\After\SamuraiApp\SamuraiApp.UI\Program.cs">
-        <Link>Program.cs</Link>
-      </Compile>
-    </ItemGroup>
-
 </Project>
